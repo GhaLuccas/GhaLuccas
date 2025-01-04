@@ -52,10 +52,8 @@ Sou um estudante de programação sempre disposto a aprender , no momento com ê
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B8BBE?style=for-the-badge&logo=SQLAlchemy&logoColor=white)&nbsp;
 ![Pytest](https://img.shields.io/badge/pytest-0A9E1F?style=for-the-badge&logo=pytest&logoColor=white)&nbsp;
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-3E5A7A?style=for-the-badge&logo=uvicorn&logoColor=white)&nbsp;
-![Celery](https://img.shields.io/badge/celery-3783A3?style=for-the-badge&logo=celery&logoColor=white)&nbsp;
-![Gunicorn](https://img.shields.io/badge/gunicorn-3796E3?style=for-the-badge&logo=gunicorn&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B8BBE?style=for-the-badge&logo=SQLAlchemy&logoColor=white)&nbsp;
 </details>
 
 <h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>

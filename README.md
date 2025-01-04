@@ -71,7 +71,7 @@ Sou um estudante de programação sempre disposto a aprender , no momento com ê
 </p>
 </details>
 
-<details open>
+<!--<details open>
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
@@ -83,4 +83,4 @@ Sou um estudante de programação sempre disposto a aprender , no momento com ê
 
 <div align="center">
   <img align="center" alt="Contador de visitas de GhaLuccas" src="https://profile-counter.glitch.me/GhaLuccas/count.svg" />
-</div>
+</div>-->

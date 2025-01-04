@@ -64,7 +64,7 @@ Sou um estudante de programação sempre disposto a aprender , no momento com ê
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=GhaLuccas&theme=radical&hide_border=true" alt="GhaLuccas" width="390"/>
 </p>
 </details>
 
@@ -75,12 +75,12 @@ Sou um estudante de programação sempre disposto a aprender , no momento com ê
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bush1D3v&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=8&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bush1D3v&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhaLuccas&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaLuccas&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GhaLuccas&theme=radical"/>
 </p>
 </details>
 
 <div align="center">
-  <img align="center" alt="Contador de visitas de bush1D3v" src="https://profile-counter.glitch.me/bush1D3v/count.svg" />
+  <img align="center" alt="Contador de visitas de GhaLuccas" src="https://profile-counter.glitch.me/GhaLuccas/count.svg" />
 </div>

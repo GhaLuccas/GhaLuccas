@@ -1,5 +1,5 @@
 <p align="center" style="color: #b0b0b0; font-family: 'Courier New', monospace; font-size: 18px;">
-  I'm a programming student, constantly evolving in the world of technology. Currently diving deep into web-dev like Django, FastAPI, JavaScript, and SQLAlchemy, I strive to solve complex challenges with cutting-edge solutions. The journey never ends.
+  I'm a programming student, constantly evolving in the world of technology. Currently studying web-dev like Django, FastAPI, JavaScript, and SQLAlchemy.
 </p>
 
 ---

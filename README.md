@@ -15,7 +15,7 @@
 
 - **Currently pursuing System Analysis and Development**: 4/6.
 - **Currently studying**: Django/FastAPI.
-- 🚀 Always ready to share knowledge and assist fellow developers.
+- 🚀 Always ready to learn.
 
 ---
 
